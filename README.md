@@ -8,8 +8,7 @@
 
 <img src="images/hero.jpg" alt="看得见的 AI —— 从神经元到构建者" width="88%">
 
-<!-- ⬇️ 替换成你的仓库地址 USER/REPO，star 徽章会自动显示真实数量 -->
-[![GitHub stars](https://img.shields.io/github/stars/USER/REPO?style=social)](https://github.com/USER/REPO)
+[![GitHub stars](https://img.shields.io/github/stars/dvbs2000/visible-ai?style=social)](https://github.com/dvbs2000/visible-ai)
 [![价格](https://img.shields.io/badge/价格-永久免费-2ea44f)](#-下载--在线试读)
 [![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey)](LICENSE)
 [![页数](https://img.shields.io/badge/篇幅-30章·6阶段·全图文-c8782d)](#-全书地图30-章)
@@ -88,7 +87,7 @@
 读完有共鸣、想继续交流、或者想看更多动手内容，欢迎来找我们——
 
 <!-- ⬇️ 二维码/入口在这里维护：群码过期了只改这里，PDF 永远不用重做 -->
-- 📮 **公众号**：`待填`（关注后回复「**AI**」领取最新资料 / 进群方式）
+- 📮 **公众号**：**AI 改变我们的世界**（关注后回复「**AI**」领取最新资料 / 进群方式）
 - 👥 **免费交流群**：扫码进群（二维码见下方，**过期会在此更新**）
 
 <!-- 把 join.png 换成你的草料活码 / 群码 / 公众号码 -->
