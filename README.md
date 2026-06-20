@@ -48,7 +48,7 @@
 |---|---|
 | 📚 **在线读全书（推荐）** | **[全 30 章 · 免费在线阅读 →](book/README.md)** —— 不用下载，点开就看，每章配四格漫画 |
 | 👀 **先读第 1 章** | [《三个套娃罢了——AI、机器学习与深度学习》](book/stage_1/chapter_01.md) |
-| 📖 **完整版 PDF** | <!-- ⬇️ PDF 上传后替换成下载链接 -->即将上传 · 见本页 [Releases](../../releases) |
+| 📖 **完整版 PDF** | **[⬇️ 下载完整版 PDF（38MB）](https://github.com/dvbs2000/visible-ai/releases/download/v1.0/The-Visible-AI-CN.pdf)** · 384 页 · 含序言 + 30 章 + 加入页 |
 | 🌍 **English Edition** | [English README](README.en.md) · *The Visible AI*（英文全本，已完成）|
 
 > 完全免费。欢迎下载、转发、打印给身边想学 AI 的人。
