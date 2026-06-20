@@ -1,6 +1,6 @@
 # 第 10 章 · Transformer 架构：不用排队的终极超级乐团
 
-<img src="../../images/sheets/chapter_10.jpg" alt="第 10 章 · Transformer 架构：不用排队的终极超级乐团 · 四格漫画" width="100%">
+![第 10 章 · Transformer 架构：不用排队的终极超级乐团 · 四格漫画](../../images/sheets/chapter_10.jpg)
 
 > ### 🎯 先别往下翻 · 这一章要破的题
 >

@@ -1,6 +1,6 @@
 # 第 15 章 · 扩展定律 Scaling Laws：大力出奇迹的终极暴兵公式
 
-<img src="../../images/sheets/chapter_15.jpg" alt="第 15 章 · 扩展定律 Scaling Laws：大力出奇迹的终极暴兵公式 · 四格漫画" width="100%">
+![第 15 章 · 扩展定律 Scaling Laws：大力出奇迹的终极暴兵公式 · 四格漫画](../../images/sheets/chapter_15.jpg)
 
 > ### 🎯 先别往下翻 · 这一章要破的题
 >

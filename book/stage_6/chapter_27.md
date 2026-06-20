@@ -1,6 +1,6 @@
 # 第 27 章 · 本地跑 Ollama：在自己电脑里安个离线小助手
 
-<img src="../../images/sheets/chapter_27.jpg" alt="第 27 章 · 本地跑 Ollama：在自己电脑里安个离线小助手 · 四格漫画" width="100%">
+![第 27 章 · 本地跑 Ollama：在自己电脑里安个离线小助手 · 四格漫画](../../images/sheets/chapter_27.jpg)
 
 > ### 🎯 先别往下翻 · 这一章要破的题
 >

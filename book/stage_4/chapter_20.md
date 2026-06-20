@@ -1,6 +1,6 @@
 # 第 20 章 · 智能体 Agent：ReAct 循环，让 AI 自己去打工
 
-<img src="../../images/sheets/chapter_20.jpg" alt="第 20 章 · 智能体 Agent：ReAct 循环，让 AI 自己去打工 · 四格漫画" width="100%">
+![第 20 章 · 智能体 Agent：ReAct 循环，让 AI 自己去打工 · 四格漫画](../../images/sheets/chapter_20.jpg)
 
 > ### 🎯 先别往下翻 · 这一章要破的题
 >

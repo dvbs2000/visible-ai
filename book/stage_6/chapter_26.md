@@ -1,6 +1,6 @@
 # 第 26 章 · 第一次调用 API：用几行代码叫醒云端大脑
 
-<img src="../../images/sheets/chapter_26.jpg" alt="第 26 章 · 第一次调用 API：用几行代码叫醒云端大脑 · 四格漫画" width="100%">
+![第 26 章 · 第一次调用 API：用几行代码叫醒云端大脑 · 四格漫画](../../images/sheets/chapter_26.jpg)
 
 > ### 🎯 先别往下翻 · 这一章要破的题
 >

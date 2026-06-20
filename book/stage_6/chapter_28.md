@@ -1,6 +1,6 @@
 # 第 28 章 · 实战 RAG：手写一个外挂知识库管线
 
-<img src="../../images/sheets/chapter_28.jpg" alt="第 28 章 · 实战 RAG：手写一个外挂知识库管线 · 四格漫画" width="100%">
+![第 28 章 · 实战 RAG：手写一个外挂知识库管线 · 四格漫画](../../images/sheets/chapter_28.jpg)
 
 > ### 🎯 先别往下翻 · 这一章要破的题
 >

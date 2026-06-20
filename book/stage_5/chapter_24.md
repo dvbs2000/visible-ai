@@ -1,6 +1,6 @@
 # 第 24 章 · MCP 生态：给 AI 工具箱装上标准的 USB 接口
 
-<img src="../../images/sheets/chapter_24.jpg" alt="第 24 章 · MCP 生态：给 AI 工具箱装上标准的 USB 接口 · 四格漫画" width="100%">
+![第 24 章 · MCP 生态：给 AI 工具箱装上标准的 USB 接口 · 四格漫画](../../images/sheets/chapter_24.jpg)
 
 > ### 🎯 先别往下翻 · 这一章要破的题
 >

@@ -1,6 +1,6 @@
 # 第 7 章 · 卷积神经网络 CNN：拿着九宫格放大镜去扫图
 
-<img src="../../images/sheets/chapter_07.jpg" alt="第 7 章 · 卷积神经网络 CNN：拿着九宫格放大镜去扫图 · 四格漫画" width="100%">
+![第 7 章 · 卷积神经网络 CNN：拿着九宫格放大镜去扫图 · 四格漫画](../../images/sheets/chapter_07.jpg)
 
 > ### 🎯 先别往下翻 · 这一章要破的题
 >

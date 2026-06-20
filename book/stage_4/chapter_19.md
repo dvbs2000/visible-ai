@@ -1,6 +1,6 @@
 # 第 19 章 · 函数调用 Function Calling：给聪明的脑子装上一双机械手
 
-<img src="../../images/sheets/chapter_19.jpg" alt="第 19 章 · 函数调用 Function Calling：给聪明的脑子装上一双机械手 · 四格漫画" width="100%">
+![第 19 章 · 函数调用 Function Calling：给聪明的脑子装上一双机械手 · 四格漫画](../../images/sheets/chapter_19.jpg)
 
 > ### 🎯 先别往下翻 · 这一章要破的题
 >

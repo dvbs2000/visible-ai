@@ -1,6 +1,6 @@
 # 第 8 章 · 词向量 Embedding：给汉字在 3D 星空里买套房
 
-<img src="../../images/sheets/chapter_08.jpg" alt="第 8 章 · 词向量 Embedding：给汉字在 3D 星空里买套房 · 四格漫画" width="100%">
+![第 8 章 · 词向量 Embedding：给汉字在 3D 星空里买套房 · 四格漫画](../../images/sheets/chapter_08.jpg)
 
 > ### 🎯 先别往下翻 · 这一章要破的题
 >

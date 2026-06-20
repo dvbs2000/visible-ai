@@ -1,6 +1,6 @@
 # 第 11 章 · Token 切分器：把语言切成碎片的"汉字绞肉机"
 
-<img src="../../images/sheets/chapter_11.jpg" alt="第 11 章 · Token 切分器：把语言切成碎片的"汉字绞肉机" · 四格漫画" width="100%">
+![第 11 章 · Token 切分器：把语言切成碎片的"汉字绞肉机" · 四格漫画](../../images/sheets/chapter_11.jpg)
 
 > ### 🎯 先别往下翻 · 这一章要破的题
 >
