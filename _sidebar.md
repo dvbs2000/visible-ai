@@ -1,0 +1,38 @@
+- [🏠 封面](/)
+- [📖 全书目录](/book/)
+- **① 直觉篇**
+  - [1 · 三个套娃罢了](/book/stage_1/chapter_01)
+  - [2 · 机器是怎么"学习"的](/book/stage_1/chapter_02)
+  - [3 · 一个神经元的诞生](/book/stage_1/chapter_03)
+  - [4 · 训练就是下山](/book/stage_1/chapter_04)
+  - [5 · 数据与过拟合](/book/stage_1/chapter_05)
+- **② 原理篇**
+  - [6 · 反向传播](/book/stage_2/chapter_06)
+  - [7 · 卷积神经网络 CNN](/book/stage_2/chapter_07)
+  - [8 · 词向量 Embedding](/book/stage_2/chapter_08)
+  - [9 · 注意力机制](/book/stage_2/chapter_09)
+  - [10 · Transformer 架构](/book/stage_2/chapter_10)
+- **③ 大模型篇**
+  - [11 · Token 切分器](/book/stage_3/chapter_11)
+  - [12 · 预训练](/book/stage_3/chapter_12)
+  - [13 · 指令微调与强化学习](/book/stage_3/chapter_13)
+  - [14 · 温度与采样](/book/stage_3/chapter_14)
+  - [15 · 扩展定律 Scaling Law](/book/stage_3/chapter_15)
+- **④ 应用篇**
+  - [16 · 提示词工程](/book/stage_4/chapter_16)
+  - [17 · 上下文窗口](/book/stage_4/chapter_17)
+  - [18 · 检索增强生成 RAG](/book/stage_4/chapter_18)
+  - [19 · 函数调用 Function Ca](/book/stage_4/chapter_19)
+  - [20 · 智能体 Agent](/book/stage_4/chapter_20)
+- **⑤ 前沿篇**
+  - [21 · 扩散模型](/book/stage_5/chapter_21)
+  - [22 · 多模态](/book/stage_5/chapter_22)
+  - [23 · 推理模型](/book/stage_5/chapter_23)
+  - [24 · MCP 生态](/book/stage_5/chapter_24)
+  - [25 · 开源与闭源](/book/stage_5/chapter_25)
+- **⑥ 实战篇**
+  - [26 · 第一次调用 API](/book/stage_6/chapter_26)
+  - [27 · 本地跑 Ollama](/book/stage_6/chapter_27)
+  - [28 · 实战 RAG](/book/stage_6/chapter_28)
+  - [29 · 评估与安全](/book/stage_6/chapter_29)
+  - [30 · AI 学习地图](/book/stage_6/chapter_30)

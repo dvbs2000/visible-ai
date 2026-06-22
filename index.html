@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="description" content="看得见的 AI · 一本全图解、零基础到亲手构建的 AI 通识书,永久免费">
+  <title>看得见的 AI · 在线阅读</title>
+  <link rel="stylesheet" href="assets/vendor/vue.css">
+  <style>
+    :root{ --theme-color:#c8782d; }
+    body{ font-family:-apple-system,"PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif; }
+    .markdown-section{ max-width:760px; }
+    .markdown-section img{ border-radius:10px; }
+    .cover-main .buttons a{ border-radius:30px; }
+    .mermaid{ text-align:center; }
+    .markdown-section blockquote{ border-left:4px solid #d5b475; background:#faf3e6; border-radius:0 7px 7px 0; }
+  </style>
+</head>
+<body>
+  <div id="app">加载中…</div>
+  <script>
+    window.$docsify = {
+      name: '看得见的 AI',
+      repo: 'dvbs2000/visible-ai',
+      homepage: 'book/README.md',
+      coverpage: true,
+      loadSidebar: true,
+      loadNavbar: true,
+      subMaxLevel: 2,
+      relativePath: true,
+      auto2top: true,
+      maxLevel: 3,
+      search: { placeholder:'搜索章节…', noData:'找不到', depth:3 },
+      markdown: {
+        renderer: {
+          code: function(code, lang){
+            var c = (typeof code === 'object') ? code.text : code;
+            var l = (typeof code === 'object') ? code.lang : lang;
+            if (l === 'mermaid'){ return '<div class="mermaid">' + c + '</div>'; }
+            return this.origin.code.apply(this, arguments);
+          }
+        }
+      },
+      plugins: [
+        function(hook){
+          hook.doneEach(function(){
+            var nodes = document.querySelectorAll('.mermaid:not([data-processed])');
+            if(!nodes.length) return;
+            var go = function(){
+              if(!window.__mmInit){ window.mermaid.initialize({startOnLoad:false, theme:'neutral', securityLevel:'loose'}); window.__mmInit=true; }
+              try{ window.mermaid.run({querySelector:'.mermaid:not([data-processed])'}); }catch(e){ console.error(e); }
+            };
+            if(window.mermaid){ go(); }
+            else{ var s=document.createElement('script'); s.src='assets/vendor/mermaid.min.js'; s.onload=go; document.head.appendChild(s); }
+          });
+        }
+      ]
+    };
+  </script>
+  <script src="assets/vendor/docsify.min.js"></script>
+  <script src="assets/vendor/search.min.js"></script>
+  <script src="assets/vendor/prism-python.min.js"></script>
+  <script src="assets/vendor/prism-bash.min.js"></script>
+</body>
+</html>
