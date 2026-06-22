@@ -46,10 +46,10 @@ Most AI explainers are either papers written for engineers, or clickbait screami
 
 | | |
 |---|---|
-| 📚 **Read online (recommended)** | **[All 30 chapters · free online →](book_en/README.md)** — no download, just click in |
-| 👀 **Start with Chapter 1** | [*Just Three Nesting Dolls — AI, ML & Deep Learning*](book_en/stage_1/chapter_01.md) |
-| 🎨 **Illustrated edition (Chinese)** | [The fully-illustrated 萌 edition →](book/README.md) — 100+ drawings, in Chinese |
-| 📖 **Full PDF** | **[⬇️ Download PDF (Chinese, 38MB)](https://github.com/dvbs2000/visible-ai/releases/download/v1.0/The-Visible-AI-CN.pdf)** · English PDF coming soon |
+| 📱 **Read online (recommended)** | **[Paged e-book, mobile-friendly →](https://dvbs2000.github.io/visible-ai/#/book_en/)** — no download, just click in |
+| 👀 **Start with Chapter 1** | [*Just Three Nesting Dolls — AI, ML & Deep Learning*](https://dvbs2000.github.io/visible-ai/#/book_en/stage_1/chapter_01) |
+| 📖 **Full PDF** | **[⬇️ Download the English PDF (19MB)](https://github.com/dvbs2000/visible-ai/releases/download/v1.0/The-Visible-AI-EN.pdf)** |
+| 🎨 **Illustrated edition (Chinese)** | [The fully-illustrated 萌 edition →](https://dvbs2000.github.io/visible-ai/) — 100+ drawings, in Chinese |
 
 > Completely free. Share it, print it, pass it to anyone who wants to learn AI.
 
@@ -65,6 +65,17 @@ Most AI explainers are either papers written for engineers, or clickbait screami
 | **④ Applications** | putting big models to work | 16 Prompting · 17 Context window · 18 RAG · 19 Function calling · 20 Agents |
 | **⑤ Frontier** | decode the buzzwords | 21 Diffusion · 22 Multimodal · 23 Reasoning models · 24 MCP · 25 Open vs closed |
 | **⑥ Hands-on** | from learner to builder | 26 First API call · 27 Local Ollama · 28 Hand-write RAG · 29 Eval & safety · 30 Your AI map |
+
+---
+
+## 📬 Stay in touch
+
+*The Visible AI* is free, forever — and there's more on the way.
+
+- 📧 **Newsletter** — new chapters, AI explainers, and hands-on material, straight to your inbox: **[dvbs2000.substack.com](https://dvbs2000.substack.com)**
+- ⭐ **Star & Watch** this repo to get notified of new releases.
+
+No spam, no paywall — just follow along if it's useful.
 
 ---
 

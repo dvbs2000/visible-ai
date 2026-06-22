@@ -1,0 +1,38 @@
+- [🏠 Cover](/)
+- [📖 Contents](/book_en/)
+- **① Intuition**
+  - [1 · Just Three Nesting Dolls](/book_en/stage_1/chapter_01)
+  - [2 · How Does a Machine Actually…](/book_en/stage_1/chapter_02)
+  - [3 · The Birth of a Neuron](/book_en/stage_1/chapter_03)
+  - [4 · Training Is Walking Downhill](/book_en/stage_1/chapter_04)
+  - [5 · Data and Overfitting](/book_en/stage_1/chapter_05)
+- **② Principles**
+  - [6 · Backpropagation](/book_en/stage_2/chapter_06)
+  - [7 · Convolutional Neural…](/book_en/stage_2/chapter_07)
+  - [8 · Word Embeddings](/book_en/stage_2/chapter_08)
+  - [9 · Attention](/book_en/stage_2/chapter_09)
+  - [10 · The Transformer Architecture](/book_en/stage_2/chapter_10)
+- **③ Large Models**
+  - [11 · The Tokenizer](/book_en/stage_3/chapter_11)
+  - [12 · Pretraining](/book_en/stage_3/chapter_12)
+  - [13 · Instruction Tuning &…](/book_en/stage_3/chapter_13)
+  - [14 · Temperature and Sampling](/book_en/stage_3/chapter_14)
+  - [15 · Scaling Laws](/book_en/stage_3/chapter_15)
+- **④ Applications**
+  - [16 · Prompt Engineering](/book_en/stage_4/chapter_16)
+  - [17 · The Context Window](/book_en/stage_4/chapter_17)
+  - [18 · Retrieval-Augmented…](/book_en/stage_4/chapter_18)
+  - [19 · Function Calling](/book_en/stage_4/chapter_19)
+  - [20 · Agents](/book_en/stage_4/chapter_20)
+- **⑤ Frontier**
+  - [21 · Diffusion Models](/book_en/stage_5/chapter_21)
+  - [22 · Multimodal](/book_en/stage_5/chapter_22)
+  - [23 · Reasoning Models](/book_en/stage_5/chapter_23)
+  - [24 · The MCP Ecosystem](/book_en/stage_5/chapter_24)
+  - [25 · Open vs. Closed Source](/book_en/stage_5/chapter_25)
+- **⑥ Hands-on**
+  - [26 · Your First API Call](/book_en/stage_6/chapter_26)
+  - [27 · Running Ollama Locally](/book_en/stage_6/chapter_27)
+  - [28 · Hands-On RAG](/book_en/stage_6/chapter_28)
+  - [29 · Evaluation & Safety](/book_en/stage_6/chapter_29)
+  - [30 · The AI Learning Map](/book_en/stage_6/chapter_30)

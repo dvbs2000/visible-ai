@@ -1,4 +1,4 @@
-- [📖 在线阅读](/book/)
-- [⬇️ 下载 PDF](https://github.com/dvbs2000/visible-ai/releases/download/v1.0/The-Visible-AI-CN.pdf)
+- [📖 中文](/book/)
+- [📖 English](/book_en/)
+- [📧 Newsletter](https://dvbs2000.substack.com)
 - [⭐ GitHub](https://github.com/dvbs2000/visible-ai)
-- [EN](/book_en/)

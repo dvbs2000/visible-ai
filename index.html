@@ -29,6 +29,10 @@
       loadNavbar: true,
       subMaxLevel: 2,
       relativePath: true,
+      alias: {
+        '/book_en/(.*/)?_sidebar.md': '/book_en/_sidebar.md',
+        '/.*/_sidebar.md': '/_sidebar.md'
+      },
       auto2top: true,
       maxLevel: 3,
       markdown: {
