@@ -68,14 +68,14 @@ Most AI explainers are either papers written for engineers, or clickbait screami
 
 ---
 
-## 📬 Stay in touch
+## 📌 Follow along
 
-*The Visible AI* is free, forever — and there's more on the way.
+*The Visible AI* lives here on GitHub — no sign-up, no email.
 
-- 📧 **Newsletter** — new chapters, AI explainers, and hands-on material, straight to your inbox: **[dvbs2000.substack.com](https://dvbs2000.substack.com)**
-- ⭐ **Star & Watch** this repo to get notified of new releases.
+- ⭐ **Star it** — bookmark it, and help the next learner find it.
+- 👁 **Watch → Releases** — get a GitHub notification whenever a new edition ships.
 
-No spam, no paywall — just follow along if it's useful.
+That's it. Free to read, free to share.
 
 ---
 

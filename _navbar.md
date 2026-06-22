@@ -1,4 +1,3 @@
 - [📖 中文](/book/)
 - [📖 English](/book_en/)
-- [📧 Newsletter](https://dvbs2000.substack.com)
 - [⭐ GitHub](https://github.com/dvbs2000/visible-ai)
